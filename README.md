@@ -1,4 +1,4 @@
-# A-Star-Pathfinding-Cplusplus
+# A-Star-Pathfinding
 A* algorithm C++ implementation for pathfinding
 
 ## Context :
